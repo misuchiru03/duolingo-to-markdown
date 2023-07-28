@@ -59,3 +59,7 @@ The cron job is scheduled to run once a day, but you can do it weekly changing  
           
 ## TODO:
  -  Feel free to open an issue or send a pull request for anything you believe would be useful.
+
+<!-- duolingo -->
+
+
