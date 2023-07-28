@@ -23,7 +23,7 @@ inputs:
     default: true
 
 runs:
-  using: 'node16'
+  using: 'composite'
   steps:
     - env:
         DUOLINGO_USERNAME: ${{ inputs.DUOLINGO_USERNAME }}
